@@ -1,2 +1,2 @@
 # Gems
-Game on C++/Qt
+Study task: Game on C++/Qt
